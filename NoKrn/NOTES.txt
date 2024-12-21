@@ -1,0 +1,9 @@
+target remote localhost:1234
+
+stepi
+
+layout asm
+
+break *0x7c00 (Where bootloader code starts)
+
+break *0x7c25

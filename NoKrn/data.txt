@@ -1,0 +1,5 @@
+
+ctrl+c Reprint
+crtl+a fill screen
+ctrl+g Beep
+ctrl+r reset
